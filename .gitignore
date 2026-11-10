@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.cache/
+.coverage
+.tox/
+*.log
+
+# Local secrets and personal financial data
+.env
+.env.*
+!.env.example
+secrets.toml
+.streamlit/secrets.toml
+data/
+*.db
+*.sqlite
+*.sqlite3
+*-wal
+*-shm
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+exports/
+*portfolio-export*
+*holdings-export*
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+.fleet/

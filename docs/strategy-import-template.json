@@ -1,0 +1,101 @@
+{
+  "schema_version": 3,
+  "ticker": "MCD",
+  "company_name": null,
+  "research_date": "2026-10-28",
+  "strategy_type": "Example only",
+  "investment_thesis": "Illustrative placeholder — replace with your own researched content.",
+  "fundamental_analysis": "Illustrative placeholder — replace with your own researched content.",
+  "valuation_analysis": "Illustrative placeholder — replace with your own researched content.",
+  "technical_analysis": "Illustrative placeholder — replace with your own researched content.",
+  "bull_case": "Illustrative placeholder — replace with your own researched content.",
+  "base_case": "Illustrative placeholder — replace with your own researched content.",
+  "bear_case": "Illustrative placeholder — replace with your own researched content.",
+  "catalysts": "",
+  "risks": "",
+  "uncertainties": "Example placeholders only; no research has been verified.",
+  "research_gaps": "Replace all example text with your own research.",
+  "market_price_reference": {
+    "price": null,
+    "date": null,
+    "basis": "",
+    "source": ""
+  },
+  "evidence": [
+    {
+      "title": "Generic official starting point — not evidence for this ticker",
+      "url": "https://www.sec.gov/",
+      "source": "U.S. Securities and Exchange Commission website; generic reference only",
+      "as_of": null
+    }
+  ],
+  "investment_logic": {
+    "bullish_drivers": [],
+    "bearish_risks": [],
+    "catalysts": [],
+    "invalidation_signals": []
+  },
+  "position_sizing": null,
+  "scenarios": {
+    "short_term": {
+      "thesis": "Illustrative placeholder — replace with your own researched content.",
+      "holding_horizon": "Set the intended holding window",
+      "entry_conditions": "Describe conditions; leave numeric prices null if unsupported.",
+      "entry_price_low": null,
+      "entry_price_high": null,
+      "target_price_low": null,
+      "target_price_high": null,
+      "stop_price": null,
+      "fundamental_invalidation": "Describe thesis invalidation; no numerical stop supplied.",
+      "invalidation_conditions": "Illustrative placeholder — replace with your own researched content.",
+      "bull_case": "Illustrative placeholder — replace with your own researched content.",
+      "base_case": "Illustrative placeholder — replace with your own researched content.",
+      "bear_case": "Illustrative placeholder — replace with your own researched content.",
+      "catalysts": "",
+      "risks": "",
+      "evidence": "",
+      "assumptions": "",
+      "uncertainty": "Replace this example with verified research."
+    },
+    "medium_term": {
+      "thesis": "Illustrative placeholder — replace with your own researched content.",
+      "holding_horizon": "Set the intended holding window",
+      "entry_conditions": "Describe conditions; leave numeric prices null if unsupported.",
+      "entry_price_low": null,
+      "entry_price_high": null,
+      "target_price_low": null,
+      "target_price_high": null,
+      "stop_price": null,
+      "fundamental_invalidation": "Describe thesis invalidation; no numerical stop supplied.",
+      "invalidation_conditions": "Illustrative placeholder — replace with your own researched content.",
+      "bull_case": "Illustrative placeholder — replace with your own researched content.",
+      "base_case": "Illustrative placeholder — replace with your own researched content.",
+      "bear_case": "Illustrative placeholder — replace with your own researched content.",
+      "catalysts": "",
+      "risks": "",
+      "evidence": "",
+      "assumptions": "",
+      "uncertainty": "Replace this example with verified research."
+    },
+    "long_term": {
+      "thesis": "Illustrative placeholder — replace with your own researched content.",
+      "holding_horizon": "Set the intended holding window",
+      "entry_conditions": "Describe conditions; leave numeric prices null if unsupported.",
+      "entry_price_low": null,
+      "entry_price_high": null,
+      "target_price_low": null,
+      "target_price_high": null,
+      "stop_price": null,
+      "fundamental_invalidation": "Describe thesis invalidation; no numerical stop supplied.",
+      "invalidation_conditions": "Illustrative placeholder — replace with your own researched content.",
+      "bull_case": "Illustrative placeholder — replace with your own researched content.",
+      "base_case": "Illustrative placeholder — replace with your own researched content.",
+      "bear_case": "Illustrative placeholder — replace with your own researched content.",
+      "catalysts": "",
+      "risks": "",
+      "evidence": "",
+      "assumptions": "",
+      "uncertainty": "Replace this example with verified research."
+    }
+  }
+}

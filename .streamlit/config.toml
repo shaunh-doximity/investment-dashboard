@@ -1,0 +1,18 @@
+[server]
+# Keep this personal dashboard available only from this Mac.
+address = "127.0.0.1"
+
+[theme]
+base = "dark"
+primaryColor = "#8AB4F8"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#171B23"
+textColor = "#E6EAF0"
+font = "sans-serif"
+headingFont = "sans-serif"
+baseFontSize = 17
+baseFontWeight = 400
+metricValueFontSize = "2rem"
+metricValueFontWeight = 600
+headingFontSizes = ["32px", "32px", "22px", "22px", "18px", "16px"]
+headingFontWeights = [600, 600, 600, 600, 600, 500]

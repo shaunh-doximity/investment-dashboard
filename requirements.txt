@@ -1,0 +1,10 @@
+# UI, HTTP clients, and local .env loading.
+streamlit>=1.50,<2.0
+requests>=2.31,<3.0
+python-dotenv>=1.0,<2.0
+plotly>=5.24,<7.0
+yfinance>=0.2.40,<1.0
+exchange-calendars>=4.5,<5.0
+# Official SDK for OpenAI and its OpenAI-compatible DeepSeek Chat Completions endpoint.
+openai>=1.70,<3.0
+# SQLite persistence and financial calculations use Python's standard library.
