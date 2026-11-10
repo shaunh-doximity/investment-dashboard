@@ -2,6 +2,9 @@
 
 A personal, local-first investment research workspace built with Python, Streamlit, and SQLite. It keeps manually entered holdings, cash, research notes, and cached market data on the local machine. Its investment philosophy is transparent and reviewable: calculations are deterministic Python, AI output is optional analysis rather than verified fact, and no feature places trades or connects to a brokerage.
 
+<img width="1672" height="918" alt="image" src="https://github.com/user-attachments/assets/f845f9f6-ccc2-455f-b0ab-e24316c8b824" />
+
+
 The four tabs are **Market Home**, **Portfolio**, **Research & Watchlist**, and **Quant Lab**. Market quotes, price history, VIX observations, and event calendars refresh only after explicit user actions.
 
 ## Architecture
